@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "826019556418",
+    "firebase_url": "https://fooddelivery-e38d7-default-rtdb.firebaseio.com",
+    "project_id": "fooddelivery-e38d7",
+    "storage_bucket": "fooddelivery-e38d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826019556418:android:0a934d74256672b4fd11db",
+        "android_client_info": {
+          "package_name": "com.abg.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826019556418-ab0mpfj5iphakgkrd8nhnuah47i773sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi_wOzn3IfU78f-gzEre9rpWc79z1fRhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826019556418-ab0mpfj5iphakgkrd8nhnuah47i773sk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "826019556418-vd84a2gbclj67prrmidrt5p2a4sv8k34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abg.fooddelivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
